@@ -1,0 +1,6 @@
+framework module Pods_SwapiSwiftMVC {
+  umbrella header "Pods-SwapiSwiftMVC-umbrella.h"
+
+  export *
+  module * { export * }
+}
